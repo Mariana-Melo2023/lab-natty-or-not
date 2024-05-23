@@ -1,51 +1,23 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# O Leão e o Sucesso: Uma Jornada Inspiradora ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+     Nas vastas planícies da savana, o leão emerge como um predador de topo, uma figura imponente que personifica a força bruta e a astúcia. Sua vida é um testemunho do sucesso, não apenas pela sua supremacia física, mas também pela sua habilidade estratégica e perspicácia. Ao observarmos o leão em seu habitat natural, encontramos um reservatório de lições preciosas sobre o que é necessário para triunfar na jornada humana.
+     Assim como o leão, cada um de nós carrega o potencial para alcançar grandes feitos. O sucesso não é apenas uma questão de força física, mas também de determinação, coragem e inteligência. O leão não caça apenas por instinto, mas meticulosamente planeja suas investidas, escolhendo o momento certo para agir.
+     Seguindo essa mesma linha, nós, seres humanos, devemos traçar nossos objetivos com clareza e firmeza. Devemos abraçar a coragem necessária para enfrentar os desafios que surgem em nosso caminho, reconhecendo que cada obstáculo é, na verdade, uma oportunidade de crescimento e aprendizado.
+     Assim como o leão reina sobre sua savana, podemos assumir o controle de nossas próprias vidas, dominando nossas circunstâncias e perseguindo nossos sonhos mais ousados. Sejamos como o leão: intrépidos, resilientes e sempre prontos para enfrentar o próximo desafio. E, dessa forma, com determinação e discernimento, alcançaremos o sucesso que tanto almejamos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+As IAs Generativas utilizadas neste projeto foram o ChatGPT e invideo AI
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiro, no ChatGPT eu solicitei a IA para criar uma metáfora usando os leões
+como exemplo para fazer um roteiro inspirador e motivacional.
+Segundo, com o roteiro pronto eu solicitei ao invideo Ai para gerar o video em 
+formato para tik tok. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Apresente os resultados do seu projeto](https://ai.invideo.io/watch/F5KHrH67anP)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Os desafios encontrados nessa produção fora com relação a limitação de sugestões com metáforas previsiveis para o ChatGPT
+e para o invideo AI foi com relação a busca de visdeos nos repositorios geralmente pagos, essa IA poderia fazer as buscas 
+nos sites de free license para nao ter marca dàgua.
